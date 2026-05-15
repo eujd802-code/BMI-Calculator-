@@ -1,0 +1,1 @@
+It's really easy to use. All you gotta do is put in your Weight (pounds) and height (inches) and then the BMI Calculator calculates your BMI number and even tells you your range, wether or not the BMI number is underweight, normal, overweight, or obese.
